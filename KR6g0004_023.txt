@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.172898
+#+DATE: 2015-08-30 20:03:43.087794
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_023-0469a> 
 #+PROPERTY: JUAN 23
 ¶
 ¶
-
- 大般涅槃經集解卷第二十三¶
+大般涅槃經集解卷第二十三¶
 ¶
 
 　廣舉十二種醫譬明經力¶
@@ -20,10 +19,7 @@
 　名四實義　明改定經文失義旨¶
 事　釋賣乳加水譬¶
 
-:PROPERTIES:
-:head: 菩薩品第二
-:END:
-¶
+菩薩品第二¶
 
 復次善男子譬如良醫(至)唯除必死一闡提輩。¶
 

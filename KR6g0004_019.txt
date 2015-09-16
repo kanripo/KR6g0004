@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.041726
+#+DATE: 2015-08-30 20:03:42.980205
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_019-0453a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 19
 ¶
 ¶
-
- 大般涅槃經集解卷第十九¶
+大般涅槃經集解卷第十九¶
 ¶
 
 　雪山一味藥譬¶
@@ -21,10 +20,7 @@
 　廣論三種三歸。一者階梯。二者一體。三¶
 者自身未來佛性¶
 
-:PROPERTIES:
-:head: 如來性品之第二
-:END:
-¶
+如來性品之第二¶
 
 復次善男子譬如雪山。
 
@@ -51,7 +47,7 @@
 在深叢下人無能見。
 
 案。僧亮曰。九住已下。¶
-不能得見也。法瑤曰。以煩惱䨱故。雖有佛¶
+不能得見也。法瑤曰。以煩惱[雨/復]故。雖有佛¶
 性。眾生不見也。僧宗曰。無有十地慧目。所以¶
 不能見也。¶
 

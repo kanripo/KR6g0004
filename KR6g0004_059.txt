@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:41.064139
+#+DATE: 2015-08-30 20:03:44.023086
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_059-0561c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 59
 ¶
 ¶
-
- 大般涅槃經集解卷第五十九¶
+大般涅槃經集解卷第五十九¶
 ¶
 
 　廣出與六師論我無我義¶
@@ -22,10 +21,7 @@
 　廣釋涅槃無相義¶
 　廣釋定慧捨相奢摩他等相¶
 
-:PROPERTIES:
-:head: 師子吼品之第六
-:END:
-¶
+師子吼品之第六¶
 
 爾時六師周遍六城(至)唯說如來常樂我淨。
 <pb:KR6g0004_T_059-0562a>¶
@@ -94,7 +90,7 @@
 案。僧亮曰。第四難也。若各有自在之生。豈¶
 有愚智之別耶。造業亦理然是同也。¶
 
-瞿曇眾生我者無有邊際(至)眾生業果不得無¶
+曇瞿眾生我者無有邊際(至)眾生業果不得無¶
 差。
 
 案。僧亮曰。外道救義但救多我之切也。¶

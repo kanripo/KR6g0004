@@ -1,28 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.561969
+#+DATE: 2015-08-30 20:03:43.491685
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_040-0506a> ¶
 #+PROPERTY: JUAN 40
 ¶
 ¶
-
- 大般涅槃經集解卷第四十¶
+大般涅槃經集解卷第四十¶
 ¶
 
 　辨世間所不知見覺菩薩知見覺¶
 　廣辯菩薩修戒相　廣誡弘通法者之軌¶
 則廣釋六念第一辨十號釋婆伽婆等¶
 
-:PROPERTIES:
-:head: 梵行品之第五
-:END:
-¶
+梵行品之第五¶
 
 迦葉菩薩言如佛世尊(至)不名世間不名非世¶
 間。

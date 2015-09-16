@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.398412
+#+DATE: 2015-08-30 20:03:43.349606
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_034-0491b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 34
 ¶
 ¶
-
- 大般涅槃經集解卷第三十四¶
+大般涅槃經集解卷第三十四¶
 ¶
 
 　破外道所執義　釋更轉法輪義¶
 
-:PROPERTIES:
-:head: 聖行品之第八
-:END:
-¶
+聖行品之第八¶
 
 復次善男子諸行無我(至)以是義故定知無我。¶
 

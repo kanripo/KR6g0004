@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:41.015273
+#+DATE: 2015-08-30 20:03:43.973491
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_057-0558b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 57
 ¶
 ¶
-
- 大般涅槃經集解卷第五十七¶
+大般涅槃經集解卷第五十七¶
 ¶
 
 　辨縛解義¶
@@ -28,10 +27,7 @@
 　釋生義與涅槃義皆不生不滅¶
 　釋佛性非一非二義¶
 
-:PROPERTIES:
-:head: 師子吼品之第四
-:END:
-¶
+師子吼品之第四¶
 
 師子吼言世尊如佛所說(至)以是二因應無縛¶
 解。

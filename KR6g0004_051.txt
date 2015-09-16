@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.833872
+#+DATE: 2015-08-30 20:03:43.759249
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_051-0531a> 
 #+PROPERTY: JUAN 51
 ¶
-
- 大般涅槃經集解卷第五十一¶
+大般涅槃經集解卷第五十一¶
 ¶
 
 　廣辯涅槃近因　親近善友¶
@@ -23,10 +22,7 @@
 　引昔告魔三月當涅槃事¶
 　釋涅槃名¶
 
-:PROPERTIES:
-:head: 德王品之第七
-:END:
-¶
+德王品之第七¶
 
 復次善男子云何菩薩摩訶薩(至)四者如法修¶
 行。

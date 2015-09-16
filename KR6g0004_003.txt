@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:39.558687
+#+DATE: 2015-08-30 20:03:42.530244
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_003-0388a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 大般涅槃經集解卷第三(序品第一卷之第二)¶
+大般涅槃經集解卷第三(序品第一卷之第二)¶
 ¶
 
 　出諸離車在虛空坐去地七多羅樹¶
@@ -21,10 +20,7 @@
 　敘變林及重閣講堂事¶
 　釋魔王說呪事　出無邊身來事¶
 
-:PROPERTIES:
-:head: 序品之第二
-:END:
-¶
+序品之第二¶
 
 爾時復有四恒河沙(至)及閻浮提諸王眷屬。¶
 
@@ -47,7 +43,7 @@
 <pb:KR6g0004_T_003-0388b>¶
 今明滅非作法。乃息偽反真也。五色之中。白¶
 是真實自然之色。不可染成。借事表理也。僧¶
-宗曰。向三種瑞。人中悉集。今現此相。以摧¶
+宗曰。向三種瑞。人中悉集。今現此相。以催¶
 諸天速集也。¶
 
 於虛空中自然而有(至)皆悉悲感愁憂不樂。¶

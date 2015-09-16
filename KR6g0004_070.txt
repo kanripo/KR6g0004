@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:41.366048
+#+DATE: 2015-08-30 20:03:44.342980
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_070-0605b> 
 #+PROPERTY: JUAN 70
 ¶
-
- 大般涅槃經集解卷第七十(憍陳如品第廿五)¶
+大般涅槃經集解卷第七十(憍陳如品第廿五)¶
 ¶
 
 　釋滅無常色獲得常色¶
@@ -19,11 +18,7 @@
 　婆私咤第二　先尼第三¶
 　迦葉第四　富那第五¶
 
-25憍陳如品(七○-七一)
-:PROPERTIES:
-:head: 憍陳如品第二十五
-:END:
-¶
+憍陳如品第二十五¶
 
 案。僧亮曰。第四流通分也。陳如是弟子之¶
 長。先受偏悟。今得圓解。委以流通。不亦宜¶

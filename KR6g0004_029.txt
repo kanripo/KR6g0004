@@ -1,25 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.297473
+#+DATE: 2015-08-30 20:03:43.222935
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_029-0480c> 
 #+PROPERTY: JUAN 29
 ¶
-
- 大般涅槃經集解卷第二十九¶
+大般涅槃經集解卷第二十九¶
 ¶
 
 　出功德天黑闇女譬　釋死苦¶
 
-:PROPERTIES:
-:head: 聖行品之第三
-:END:
-¶
+聖行名之第三¶
 
 迦葉生之根本凡有如是(至)觀於所生已見過¶
 患。
@@ -72,7 +68,7 @@
 譬婆羅門子。曠劫為地獄所苦。絕人天食也。¶
 糞譬陰身。菓譬生也。欣生之情。譬欲取也。生¶
 之為過。聖之所說。譬智訶也。知貪生之患。譬¶
-𧹞然有愧也。為生天中有五欲樂。譬淨洗也。¶
+[赤*皮]然有愧也。為生天中有五欲樂。譬淨洗也。¶
 終不愛者。譬還棄也。寶亮曰。此第二以童¶
 子譬小菩薩。與大菩薩對也。¶
 

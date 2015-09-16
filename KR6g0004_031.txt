@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.335389
+#+DATE: 2015-08-30 20:03:43.275647
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_031-0484a> 
 #+PROPERTY: JUAN 31
 ¶
-
- 大般涅槃經集解卷第三十一¶
+大般涅槃經集解卷第三十一¶
 ¶
 
 　廣釋集諦以愛為體¶
@@ -22,10 +21,7 @@
 　廣釋見滅諦義　廣釋道諦義¶
 　廣釋道義是一隨法有異¶
 
-:PROPERTIES:
-:head: 聖行品之第五
-:END:
-¶
+聖行品之第五¶
 
 善男子云何菩薩摩訶薩(至)分別挍計無量無¶
 邊。

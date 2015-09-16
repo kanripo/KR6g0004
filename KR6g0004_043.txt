@@ -1,28 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.636908
+#+DATE: 2015-08-30 20:03:43.549347
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_043-0511c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 43
 ¶
 ¶
-
- 大般涅槃經集解卷第四十三¶
+大般涅槃經集解卷第四十三¶
 ¶
 
 　耆婆勸闍世王詣佛　廣說雜緣起事¶
 　出頻婆娑羅於空中勸闍世事¶
 　釋月愛三昧義　為闡提作一柱殿義¶
 
-:PROPERTIES:
-:head: 梵行品之第八
-:END:
-¶
+梵行品之第八¶
 
 王今且聽釋提桓因(至)所有重罪必當得除。¶
 
@@ -53,7 +49,7 @@
 世至今。有犯罪而見佛者。無不除滅。云何王¶
 罪。獨不滅耶。¶
 
-大王諸佛世尊大悲普䨱(至)亦當視佛如父母¶
+大王諸佛世尊大悲普[雨/復](至)亦當視佛如父母¶
 想。
 
 案。僧亮曰。恐王思惟。不敢求佛。次說大¶

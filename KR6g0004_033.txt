@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.378208
+#+DATE: 2015-08-30 20:03:43.328960
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_033-0490a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 33
 ¶
 ¶
-
- 大般涅槃經集解卷第三十三¶
+大般涅槃經集解卷第三十三¶
 ¶
 
 　廣釋前七種實諦義¶
 　廣出外道所執常樂我淨¶
 
-:PROPERTIES:
-:head: 聖行品之第七
-:END:
-¶
+聖行品之第七¶
 
 文殊師利白佛言世尊(至)一切顛倒不名為實。¶
 

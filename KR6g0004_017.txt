@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:39.978868
+#+DATE: 2015-08-30 20:03:42.926342
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_017-0444b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 17
 ¶
 ¶
-
- 大般涅槃經集解卷第十七(分邪正品第九)¶
+大般涅槃經集解卷第十七(分邪正品第九)¶
 ¶
 
 　辯十一種邪正事¶
 
-9分邪正品(一七)
-:PROPERTIES:
-:head: 分邪正品第九
-:END:
-¶
+分邪正品第九¶
 
 案。僧亮曰。答云何知天魔。為眾作留難也。故¶
 是廣流通也。法瑤曰。夫邪黨嫉正。魔亂真道。¶

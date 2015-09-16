@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.772717
+#+DATE: 2015-08-30 20:03:43.684930
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_048-0525a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 48
 ¶
 ¶
-
- 大般涅槃經集解卷第四十八¶
+大般涅槃經集解卷第四十八¶
 ¶
 
 　出通法緣起　廣辯離漏¶
@@ -21,10 +20,7 @@
 　空聚落譬　六大賊譬¶
 　河譬　草栰譬¶
 
-:PROPERTIES:
-:head: 德王品之第四
-:END:
-¶
+德王品之第四¶
 
 善男子若有人能書寫是經(至)是經難遇過優¶
 曇華。
@@ -167,7 +163,7 @@
 寶亮曰。斷無明住地惑。得於佛果。乃通三界¶
 內外。皆是河義。而今取無明住地惑難斷者。¶
 為河也。即取草木為栰者。於三界外。既未¶
-有有治道。欲修行萬善。以趣極果也。從我¶
+有治道。欲修行萬善。以趣極果也。從我¶
 設住此下。說蛇賊所害者。若指斷三界結盡。¶
 而終未免於蛇賊。既與已相隣。云何相免。寧¶
 當任無明住地。或牽於生死。終不為彼蛇賊¶

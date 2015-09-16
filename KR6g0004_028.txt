@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.280687
+#+DATE: 2015-08-30 20:03:43.197951
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_028-0479a> ¶¶¶¶¶
 #+PROPERTY: JUAN 28
 ¶
 ¶
-
- 大般涅槃經集解卷第二十八¶
+大般涅槃經集解卷第二十八¶
 ¶
 
 　釋觀三十六物　釋四意止觀¶
@@ -21,10 +20,7 @@
 　釋四諦義　釋三苦義¶
 　釋四諦有漏無漏義　釋八苦義¶
 
-:PROPERTIES:
-:head: 聖行品之第二
-:END:
-¶
+聖行品之第二¶
 
 復次善男子菩薩摩訶薩(至)除去皮肉唯觀白¶
 骨。

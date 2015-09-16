@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.472323
+#+DATE: 2015-08-30 20:03:43.411849
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_037-0496c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 37
 ¶
 ¶
-
- 大般涅槃經集解卷第三十七¶
+大般涅槃經集解卷第三十七¶
 ¶
 
 　明慈悲有實益¶
@@ -22,10 +21,7 @@
 那大多女人及提婆達多憍薩羅賊流離太¶
 子¶
 
-:PROPERTIES:
-:head: 梵行品之第二
-:END:
-¶
+梵行品之第二¶
 
 迦葉菩薩白佛言世尊(至)如是之觀非虛妄¶
 耶。

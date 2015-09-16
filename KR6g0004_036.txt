@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.442661
+#+DATE: 2015-08-30 20:03:43.389044
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_036-0494a> 
 #+PROPERTY: JUAN 36
 ¶
-
- 大般涅槃經集解卷第三十六¶
+大般涅槃經集解卷第三十六¶
 (梵行品第二十)¶
 ¶
 
@@ -21,11 +20,7 @@
 　廣釋四無量定數¶
 　廣釋怨親中人有九品義¶
 
-20梵行品(三六-四四)
-:PROPERTIES:
-:head: 梵行品第二十
-:END:
-¶
+梵行品第二十¶
 
 案。僧亮曰。以四等為體也。本是梵天道。仍¶
 本名也。亦云。梵是淨義。聖行是自淨。四等是¶
@@ -309,7 +304,7 @@
 深淺。亦待伴也。僧宗曰。汝言慈能斷瞋者。此¶
 舉初難。雖可同治於瞋。然瞋有麁細。慈心斷¶
 麁。悲心斷細。今所斷既殊。能斷何得獨不¶
-異耶。自六句釋麁細義也。言伴類相對者。¶
+異耶。自下六句釋麁細義也。言伴類相對者。¶
 慈悲雖為伴類。而相對麁細。故為四耳。¶
 
 復以器故應名為四(至)以是義故應四無減。¶

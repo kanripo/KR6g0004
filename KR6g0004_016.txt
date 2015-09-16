@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:39.945345
+#+DATE: 2015-08-30 20:03:42.893972
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_016-0440b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 大般涅槃經集解卷第十六¶
+大般涅槃經集解卷第十六¶
 ¶
 
 　明敬弘經人不應簡老少黑白等¶
@@ -20,10 +19,7 @@
 　會通今昔四依儀
 <pb:KR6g0004_T_016-0440c>¶
 
-:PROPERTIES:
-:head: 四依品之第二
-:END:
-¶
+四依品之第二¶
 
 善男子汝應供養如是四人。
 

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.744241
+#+DATE: 2015-08-30 20:03:43.661461
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_047-0522b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 47
 ¶
 ¶
-
- 大般涅槃經集解卷第四十七¶
+大般涅槃經集解卷第四十七¶
 ¶
 
 　辨護法等四種罪人不定義¶
@@ -20,10 +19,7 @@
 　廣辯諸佛非天非非天等事¶
 　辨三漏義　辨七漏義¶
 
-:PROPERTIES:
-:head: 德王品之第三
-:END:
-¶
+德王品之第三¶
 
 善男子云何菩薩摩訶薩(至)是名不聞而聞。¶
 
@@ -261,7 +257,7 @@
 數。我見我者。第一心。但有假名我。以凡夫¶
 計。有一性我之法也。我見無我者。第二心。佛¶
 實是真我。橫計為無我也。無我見我者。第三¶
-心。實無神我。然是假名。假名我執者。言是¶
+心。實無神我。然是假名。我執者。言是¶
 實性我也。下餘三心。謂作者受者知者。而凡¶
 夫妄計。所以成邪見。如來永斷此漏源。是故¶
 非漏。¶
