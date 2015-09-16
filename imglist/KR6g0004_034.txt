@@ -1,0 +1,5 @@
+034-0491c00	T 034-0491c	buddhist/T-taisho/T37/04/T37-0491.png
+034-0492a00	T 034-0492a	buddhist/T-taisho/T37/04/T37-0492.png
+034-0492b00	T 034-0492b	buddhist/T-taisho/T37/04/T37-0492.png
+034-0492c00	T 034-0492c	buddhist/T-taisho/T37/04/T37-0492.png
+034-0493a00	T 034-0493a	buddhist/T-taisho/T37/04/T37-0493.png

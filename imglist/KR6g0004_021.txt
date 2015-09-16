@@ -1,0 +1,6 @@
+021-0464b00	T 021-0464b	buddhist/T-taisho/T37/04/T37-0464.png
+021-0464c00	T 021-0464c	buddhist/T-taisho/T37/04/T37-0464.png
+021-0465a00	T 021-0465a	buddhist/T-taisho/T37/04/T37-0465.png
+021-0465b00	T 021-0465b	buddhist/T-taisho/T37/04/T37-0465.png
+021-0465c00	T 021-0465c	buddhist/T-taisho/T37/04/T37-0465.png
+021-0466a00	T 021-0466a	buddhist/T-taisho/T37/04/T37-0466.png

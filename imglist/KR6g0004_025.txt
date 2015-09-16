@@ -1,0 +1,5 @@
+025-0474c00	T 025-0474c	buddhist/T-taisho/T37/04/T37-0474.png
+025-0475a00	T 025-0475a	buddhist/T-taisho/T37/04/T37-0475.png
+025-0475b00	T 025-0475b	buddhist/T-taisho/T37/04/T37-0475.png
+025-0475c00	T 025-0475c	buddhist/T-taisho/T37/04/T37-0475.png
+025-0476a00	T 025-0476a	buddhist/T-taisho/T37/04/T37-0476.png

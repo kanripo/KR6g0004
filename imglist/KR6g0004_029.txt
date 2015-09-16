@@ -1,0 +1,4 @@
+029-0481a00	T 029-0481a	buddhist/T-taisho/T37/04/T37-0481.png
+029-0481b00	T 029-0481b	buddhist/T-taisho/T37/04/T37-0481.png
+029-0481c00	T 029-0481c	buddhist/T-taisho/T37/04/T37-0481.png
+029-0482a00	T 029-0482a	buddhist/T-taisho/T37/04/T37-0482.png

@@ -1,0 +1,5 @@
+044-0513b00	T 044-0513b	buddhist/T-taisho/T37/05/T37-0513.png
+044-0513c00	T 044-0513c	buddhist/T-taisho/T37/05/T37-0513.png
+044-0514a00	T 044-0514a	buddhist/T-taisho/T37/05/T37-0514.png
+044-0514b00	T 044-0514b	buddhist/T-taisho/T37/05/T37-0514.png
+044-0514c00	T 044-0514c	buddhist/T-taisho/T37/05/T37-0514.png

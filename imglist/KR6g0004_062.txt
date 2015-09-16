@@ -1,0 +1,4 @@
+062-0570c00	T 062-0570c	buddhist/T-taisho/T37/05/T37-0570.png
+062-0571a00	T 062-0571a	buddhist/T-taisho/T37/05/T37-0571.png
+062-0571b00	T 062-0571b	buddhist/T-taisho/T37/05/T37-0571.png
+062-0571c00	T 062-0571c	buddhist/T-taisho/T37/05/T37-0571.png

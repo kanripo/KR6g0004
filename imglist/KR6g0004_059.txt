@@ -1,0 +1,7 @@
+059-0562a00	T 059-0562a	buddhist/T-taisho/T37/05/T37-0562.png
+059-0562b00	T 059-0562b	buddhist/T-taisho/T37/05/T37-0562.png
+059-0562c00	T 059-0562c	buddhist/T-taisho/T37/05/T37-0562.png
+059-0563a00	T 059-0563a	buddhist/T-taisho/T37/05/T37-0563.png
+059-0563b00	T 059-0563b	buddhist/T-taisho/T37/05/T37-0563.png
+059-0563c00	T 059-0563c	buddhist/T-taisho/T37/05/T37-0563.png
+059-0564a00	T 059-0564a	buddhist/T-taisho/T37/05/T37-0564.png

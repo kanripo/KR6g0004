@@ -1,0 +1,4 @@
+042-0510c00	T 042-0510c	buddhist/T-taisho/T37/05/T37-0510.png
+042-0511a00	T 042-0511a	buddhist/T-taisho/T37/05/T37-0511.png
+042-0511b00	T 042-0511b	buddhist/T-taisho/T37/05/T37-0511.png
+042-0511c00	T 042-0511c	buddhist/T-taisho/T37/05/T37-0511.png

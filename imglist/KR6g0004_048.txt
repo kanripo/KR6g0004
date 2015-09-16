@@ -1,0 +1,5 @@
+048-0525b00	T 048-0525b	buddhist/T-taisho/T37/05/T37-0525.png
+048-0525c00	T 048-0525c	buddhist/T-taisho/T37/05/T37-0525.png
+048-0526a00	T 048-0526a	buddhist/T-taisho/T37/05/T37-0526.png
+048-0526b00	T 048-0526b	buddhist/T-taisho/T37/05/T37-0526.png
+048-0526c00	T 048-0526c	buddhist/T-taisho/T37/05/T37-0526.png

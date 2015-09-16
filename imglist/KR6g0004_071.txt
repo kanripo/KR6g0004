@@ -1,0 +1,7 @@
+071-0609a00	T 071-0609a	buddhist/T-taisho/T37/06/T37-0609.png
+071-0609b00	T 071-0609b	buddhist/T-taisho/T37/06/T37-0609.png
+071-0609c00	T 071-0609c	buddhist/T-taisho/T37/06/T37-0609.png
+071-0610a00	T 071-0610a	buddhist/T-taisho/T37/06/T37-0610.png
+071-0610b00	T 071-0610b	buddhist/T-taisho/T37/06/T37-0610.png
+071-0610c00	T 071-0610c	buddhist/T-taisho/T37/06/T37-0610.png
+071-0611a00	T 071-0611a	buddhist/T-taisho/T37/06/T37-0611.png
