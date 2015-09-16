@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.611324
+#+DATE: 2015-08-30 20:03:52.275597
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0004_T_042-0510b> 
 #+PROPERTY: JUAN 42
 ¶
-
- 大般涅槃經集解卷第四十二¶
+大般涅槃經集解卷第四十二¶
 ¶
 
 　阿闍世王六臣說邪見事¶
 　耆婆慰喻阿闍世王事¶
 
-:PROPERTIES:
-:head: 梵行品之第七
-:END:
-¶
+梵行品之第七¶
 
 爾時王舍大城阿闍世王(至)父王無辜橫加逆¶
 害。
@@ -168,7 +164,7 @@
 案。¶
 僧亮曰。所說證善力強也。¶
 
-大王如佛所說䨱藏者漏(至)說有智者不覆藏¶
+大王如佛所說[雨/復]藏者漏(至)說有智者不覆藏¶
 罪。
 
 案。僧亮曰。第二明王雖作重罪。能壞發¶

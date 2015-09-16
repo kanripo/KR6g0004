@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.744241
+#+DATE: 2015-08-30 20:03:52.390874
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0004_T_047-0522b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 47
 ¶
 ¶
-
- 大般涅槃經集解卷第四十七¶
+大般涅槃經集解卷第四十七¶
 ¶
 
 　辨護法等四種罪人不定義¶
@@ -20,10 +19,7 @@
 　廣辯諸佛非天非非天等事¶
 　辨三漏義　辨七漏義¶
 
-:PROPERTIES:
-:head: 德王品之第三
-:END:
-¶
+德王品之第二¶
 
 善男子云何菩薩摩訶薩(至)是名不聞而聞。¶
 

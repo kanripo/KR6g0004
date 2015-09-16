@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:41.176245
+#+DATE: 2015-08-30 20:03:52.865575
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0004_T_064-0575b> 
 #+PROPERTY: JUAN 64
 ¶
-
- 大般涅槃經集解卷第六十四¶
+大般涅槃經集解卷第六十四¶
 ¶
 
 　廣說諍論凡二十科¶
@@ -26,10 +25,7 @@
 　第四釋有退無退諍論¶
 　第五釋如來是有為或是無為¶
 
-:PROPERTIES:
-:head: 迦葉品之第二
-:END:
-¶
+迦葉品之第二¶
 
 迦葉菩薩白佛言世尊(至)亦知未來眾生諸根。¶
 
@@ -342,7 +338,7 @@
 出觀後。欲還入則難。更須作意。方得入故。名¶
 為退也。或者羅漢退來。起欲界思惟。成須陀¶
 洹也。言不退者。謂禪定亦不退。所以成諍也。¶
-復有比丘名瞿坻(至)唱言如來定說無退。案¶
+復有比丘名瞿[土*(系-小)](至)唱言如來定說無退。案¶
 僧亮曰。瞿提是那含人。六反退定。不得盡漏。¶
 第七修得恐失故自害。未死之間。諸漏得盡。¶
 魔王謂是學人命終。乃遶其尸。求覓其識。既¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:41.204634
+#+DATE: 2015-08-30 20:03:52.892771
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0004_T_065-0578a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 65
 ¶
 ¶
-
- 大般涅槃經集解卷第六十五¶
+大般涅槃經集解卷第六十五¶
 ¶
 
 　第六釋十二因緣或是有為或是無為¶
@@ -33,10 +32,7 @@
 　第十九釋佛性即眾生有離眾生有¶
 　第二十釋有十方佛無十方佛¶
 
-:PROPERTIES:
-:head: 迦葉品之第三
-:END:
-¶
+迦葉品之第三¶
 
 善男子我經中說云何名為(至)十二因緣定是¶
 有為。

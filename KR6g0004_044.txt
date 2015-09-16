@@ -1,28 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.656807
+#+DATE: 2015-08-30 20:03:52.319753
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0004_T_044-0513a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 44
 ¶
 ¶
-
- 大般涅槃經集解卷第四十四¶
+大般涅槃經集解卷第四十四¶
 (嬰兒行品第二十一)¶
 ¶
 
 　佛為阿闍世王說二十法門¶
 　辨嬰兒行¶
 
-:PROPERTIES:
-:head: 梵行品之第九
-:END:
-¶
+梵行品之第九¶
 
 爾時佛告諸大眾言(至)猶如微妙真金之山。¶
 
@@ -194,11 +190,7 @@
 
 案。僧亮曰。讚述所歎也。¶
 
-21嬰兒行品(四四)
-:PROPERTIES:
-:head: 嬰兒行品第二十一
-:END:
-
+嬰兒行品第二十一
 
 案。僧宗曰。備行三¶
 行。其德則喻如嬰兒。亦是化嬰兒也。此品有¶

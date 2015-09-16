@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:41.339910
+#+DATE: 2015-08-30 20:03:53.028951
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0004_T_069-0601a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 69
 ¶
 ¶
 ¶
 ¶
-
- 大般涅槃經集解卷第六十九¶
+大般涅槃經集解卷第六十九¶
 ¶
 
 　辨三種業謂身口意¶
@@ -25,10 +24,7 @@
 　廣辨十想　廣辨七想
 <pb:KR6g0004_T_069-0601b>¶
 
-:PROPERTIES:
-:head: 迦葉品之第七
-:END:
-¶
+迦葉品之第七¶
 
 善男子眾生觀受知是一切(至)斷和合故則不¶
 生受。

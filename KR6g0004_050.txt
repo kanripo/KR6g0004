@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.810755
+#+DATE: 2015-08-30 20:03:52.456488
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0004_T_050-0528b> ¶¶
 #+PROPERTY: JUAN 50
 ¶
 ¶
-
- 大般涅槃經集解卷第五十¶
+大般涅槃經集解卷第五十¶
 ¶
 
 　辨四量心¶
@@ -22,10 +21,7 @@
 　辯涅槃經能令眾生離二十五有¶
 　廣辨金剛三昧¶
 
-:PROPERTIES:
-:head: 德王品之第六
-:END:
-¶
+德王品之第六¶
 
 復次善男子云何菩薩(至)成就具足第三功¶
 德。
