@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.772717
+#+DATE: 2015-08-30 20:03:46.660874
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_048-0525a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 48
 ¶
 ¶
-
- 大般涅槃經集解卷第四十八¶
+大般涅槃經集解卷第四十八¶
 ¶
 
 　出通法緣起　廣辯離漏¶
@@ -21,10 +20,7 @@
 　空聚落譬　六大賊譬¶
 　河譬　草栰譬¶
 
-:PROPERTIES:
-:head: 德王品之第四
-:END:
-¶
+德王品之第四¶
 
 善男子若有人能書寫是經(至)是經難遇過優¶
 曇華。

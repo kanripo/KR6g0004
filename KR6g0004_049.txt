@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.793599
+#+DATE: 2015-08-30 20:03:46.685592
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIA
 #+PROPERTY: LASTPB <pb:KR6g0004_T_049-0526c> ¶¶¶
 #+PROPERTY: JUAN 49
 ¶
 ¶
-
- 大般涅槃經集解卷第四十九¶
+大般涅槃經集解卷第四十九¶
 ¶
 
 　釋大涅槃小涅槃義。舉有山大山等喻¶
@@ -22,10 +21,7 @@
 　辨二種神通。一與外道共。一與二乘共¶
 　辨涅槃非音聲之音¶
 
-:PROPERTIES:
-:head: 德王品之第五
-:END:
-¶
+德王品之第五¶
 
 爾時光明遍照高貴德王(至)云何涅槃云何大¶
 涅槃。
