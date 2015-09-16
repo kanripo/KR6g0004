@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.314815
+#+DATE: 2015-08-30 20:03:49.087555
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6g0004_T_030-0482a> 
 #+PROPERTY: JUAN 30
 ¶
-
- 大般涅槃經集解卷第三十¶
+大般涅槃經集解卷第三十¶
 ¶
 
 　出頂生王緣起　會通今昔五盛陰苦義¶
@@ -22,10 +21,7 @@
 　釋二乘不知常住樂因是故為說以下苦¶
 為樂¶
 
-:PROPERTIES:
-:head: 聖行品之第四
-:END:
-¶
+聖行品之第四¶
 
 迦葉云何菩薩摩訶薩(至)愛別離苦所謂命終。¶
 

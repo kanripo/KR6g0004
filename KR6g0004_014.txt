@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:39.896349
+#+DATE: 2015-08-30 20:03:48.693025
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6g0004_T_014-0435a> ¶
 #+PROPERTY: JUAN 14
 ¶
 ¶
-
- 大般涅槃經集解卷第十四¶
+大般涅槃經集解卷第十四¶
 ¶
 
 　雜廣解脫義　釋一等四執義¶
 
-:PROPERTIES:
-:head: 四相品之第四
-:END:
-¶
+四相品之第四¶
 
 又解脫者名曰甚深(至)真解脫者即是如來。¶
 
@@ -40,7 +36,7 @@
 
 案。僧宗曰。我¶
 者常見。無我者斷見也。非我非無我者。此第¶
-四家計也。𨷂第三家。第三家云。亦我則不同¶
+四家計也。[門@報]第三家。第三家云。亦我則不同¶
 第一家。亦非我復不同第二家。所言不同者。¶
 謂不全同。乃片同耳。今第四家。復異第三家¶
 也。言非我者。不同第三家斥我也。言非無我¶

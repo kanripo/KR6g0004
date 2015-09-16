@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:41.108280
+#+DATE: 2015-08-30 20:03:49.887869
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6g0004_T_061-0567b> ¶¶
 #+PROPERTY: JUAN 61
 ¶
 ¶
-
- 大般涅槃經集解卷第六十一¶
+大般涅槃經集解卷第六十一¶
 ¶
 
 　廣辨轉障義¶
@@ -25,10 +24,7 @@
 　明佛性常故不在因中如十二因緣無¶
 定住處¶
 
-:PROPERTIES:
-:head: 師子吼品之第八
-:END:
-¶
+師子吼品之第八¶
 
 師子吼菩薩言世尊(至)地獄重報現世輕受。¶
 
@@ -169,7 +165,7 @@
 
 譬如蒼蠅為唾所粘(至)是人罪業亦復如是。¶
 
-案。僧亮曰。重顯愚人。䨱藏不悔。遂長小成¶
+案。僧亮曰。重顯愚人。[雨/復]藏不悔。遂長小成¶
 大。舉三譬以為喻也。¶
 
 師子吼菩薩言世尊是人何故令現輕報轉地¶

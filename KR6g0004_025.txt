@@ -1,25 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.219485
+#+DATE: 2015-08-30 20:03:48.990377
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6g0004_T_025-0474b> 
 #+PROPERTY: JUAN 25
 ¶
-
- 大般涅槃經集解卷第二十五¶
+大般涅槃經集解卷第二十五¶
 ¶
 
 　釋有餘無餘偈義　論施闡提無福義¶
 
-:PROPERTIES:
-:head: 大眾問品之第二
-:END:
-¶
+大眾問品之第二¶
 
 世尊一切契經說有餘義(至)亦有餘義亦無餘¶
 義。

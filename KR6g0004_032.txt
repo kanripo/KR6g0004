@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.353964
+#+DATE: 2015-08-30 20:03:49.131180
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6g0004_T_032-0486a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 32
 ¶
 ¶
-
- 大般涅槃經集解卷第三十二¶
+大般涅槃經集解卷第三十二¶
 ¶
 
 　總會通四諦義　釋二諦義¶
@@ -33,10 +32,7 @@
 <pb:KR6g0004_T_032-0486b>¶
 　釋四諦當體是實¶
 
-:PROPERTIES:
-:head: 聖行品之第六
-:END:
-¶
+聖行品之第六¶
 
 迦葉菩薩白佛言世尊(至)如來何故唱言不說。¶
 
