@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:39.717263
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
@@ -17,7 +17,8 @@
 
 　合老少二人譬　多羅聚落迦葉問¶
 
-4長壽品(八-九)
+* 4長壽品(八-九)
+** 1
 :PROPERTIES:
 :head: 長壽品第四
 :END:

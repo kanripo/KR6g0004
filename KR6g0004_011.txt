@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:39.814127
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
@@ -18,7 +18,8 @@
 　釋自正等四義　立斷食肉制¶
 　釋波羅提木叉義　釋漸漸制戒義¶
 
-7四相品(一一-一四)
+* 7四相品(一一-一四)
+** 1
 :PROPERTIES:
 :head: 四相品第七
 :END:

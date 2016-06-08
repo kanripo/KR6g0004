@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:41.366048
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
@@ -19,7 +19,8 @@
 　婆私咤第二　先尼第三¶
 　迦葉第四　富那第五¶
 
-25憍陳如品(七○-七一)
+* 25憍陳如品(七〇-七一)
+** 1
 :PROPERTIES:
 :head: 憍陳如品第二十五
 :END:

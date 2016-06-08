@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:39.917912
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
@@ -20,7 +20,8 @@
 　正法餘八十年前三十年事¶
 　釋四依人修因久　近辯信不信相¶
 
-8四依品(一五-一六)
+* 8四依品(一五-一六)
+** 1
 :PROPERTIES:
 :head: 四依品第八
 :END:

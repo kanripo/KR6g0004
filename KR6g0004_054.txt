@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.916157
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
@@ -26,7 +26,8 @@
 　辨見十二緣智有四種¶
 　辨十二緣則是中道佛性¶
 
-23師子吼品(五四-六二)
+* 23師子吼品(五四-六二)
+** 1
 :PROPERTIES:
 :head: 師子吼品第二十三
 :END:

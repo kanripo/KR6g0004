@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.297473
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 29
 ¶
 
- 大般涅槃經集解卷第二十九¶
+ 
+** 3大般涅槃經集解卷第二十九¶
 ¶
 
 　出功德天黑闇女譬　釋死苦¶

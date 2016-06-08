@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:39.676445
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 7
 ¶
 
- 大般涅槃經集解卷第七(哀歎品第三卷之第二)¶
+ 
+** 2大般涅槃經集解卷第七(哀歎品第三卷之第二)¶
 ¶
 
 　釋四倒義　釋三倒義¶

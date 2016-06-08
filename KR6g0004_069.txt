@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:41.339910
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
@@ -14,7 +14,8 @@
 ¶
 ¶
 
- 大般涅槃經集解卷第六十九¶
+ 
+** 7大般涅槃經集解卷第六十九¶
 ¶
 
 　辨三種業謂身口意¶

@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.442661
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
@@ -21,7 +21,8 @@
 　廣釋四無量定數¶
 　廣釋怨親中人有九品義¶
 
-20梵行品(三六-四四)
+* 20梵行品(三六-四四)
+** 1
 :PROPERTIES:
 :head: 梵行品第二十
 :END:

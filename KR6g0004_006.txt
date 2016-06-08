@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:39.646287
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
@@ -20,7 +20,8 @@
 　釋若離若不離無常想義¶
 　釋五十七煩惱義¶
 
-3哀歎品(六-七)
+* 3哀歎品(六-七)
+** 1
 :PROPERTIES:
 :head: 哀歎品第三
 :END:

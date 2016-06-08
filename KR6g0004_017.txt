@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:39.978868
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
@@ -17,7 +17,7 @@
 
 　辯十一種邪正事¶
 
-9分邪正品(一七)
+* 9分邪正品(一七)
 :PROPERTIES:
 :head: 分邪正品第九
 :END:

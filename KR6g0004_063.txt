@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:41.153262
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
@@ -23,7 +23,8 @@
 　釋闡提身口業皆非善義¶
 　釋所以聽善星出家意¶
 
-24迦葉菩薩品(六三-六九)
+* 24迦葉菩薩品(六三-六九)
+** 1
 :PROPERTIES:
 :head: 迦葉菩薩品第二十四
 :END:
