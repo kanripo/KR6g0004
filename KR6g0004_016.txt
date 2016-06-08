@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:48.744232
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
@@ -19,7 +19,7 @@
 　會通今昔四依儀
 <pb:KR6g0004_T_016-0440c>¶
 
-四依品之第二¶
+* 四依品之第二¶
 
 善男子汝應供養如是四人。
 
