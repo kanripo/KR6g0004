@@ -1,28 +1,24 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.862215
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0004_T_052-0534c> ¶
 #+PROPERTY: JUAN 52
 ¶
 ¶
-
- 大般涅槃經集解卷第五十二¶
+大般涅槃經集解卷第五十二¶
 ¶
 
 　廣釋心性本淨不與貪俱¶
 　四句釋貪義有心共貪俱生不共¶
 貪滅等¶
 
-:PROPERTIES:
-:head: 德王品之第八
-:END:
-¶
+* 德王品之第八¶
 
 善男子云何菩薩摩訶薩(至)心善解脫慧善解¶
 脫。
@@ -45,8 +41,7 @@
 令斷。
 
 案。僧亮曰。小乘厭苦。除斷五陰也。寶¶
-亮曰。既依六行。理以忘懷。亦無有善。不¶
-而樹故。積劫為心師。要依此理教。而得出也。¶
+亮曰。既依六行。理以忘懷。亦無有善。不而樹故。積劫為心師。要依此理教。而得出也。¶
 是以始學之家。先觀五陰為本。既達身是虛。¶
 必修善而斷。故今先觀五陰為始也。受者百
 <pb:KR6g0004_T_052-0535a>¶

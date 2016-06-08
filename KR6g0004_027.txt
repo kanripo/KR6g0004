@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.260995
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0004_T_027-0477a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 27
 ¶
 ¶
-
- 大般涅槃經集解卷第二十七¶
+大般涅槃經集解卷第二十七¶
 (聖行品第十九)¶
 ¶
 
@@ -20,11 +19,7 @@
 　釋世教戒正法戒　釋性重戒息譏嫌戒¶
 　釋不折戒等九戒　結持戒果¶
 
-19聖行品(二七-三五)
-:PROPERTIES:
-:head: 聖行品第十九
-:END:
-¶
+* 聖行品第十九¶
 
 案。僧亮曰。次答問我今請如來。為諸菩薩故。¶
 須為說甚深微妙諸行等也。前品已說病行。¶

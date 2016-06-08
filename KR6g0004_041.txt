@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.586638
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0004_T_041-0507c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 41
 ¶
-
- 大般涅槃經集解卷第四十一¶
+大般涅槃經集解卷第四十一¶
 ¶
 
 　釋念法無相　念僧為福田¶
@@ -22,10 +21,7 @@
 　明惡世聲聞取相失理佛法則滅¶
 　出不得食十種肉之數及賣刀酒洛沙等事¶
 
-:PROPERTIES:
-:head: 梵行品之第六
-:END:
-¶
+* 梵行品之第六¶
 
 云何菩薩摩訶薩念法(至)是名菩薩念法。¶
 

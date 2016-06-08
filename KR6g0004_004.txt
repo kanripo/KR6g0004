@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:39.581590
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0004_T_004-0389a> 
 #+PROPERTY: JUAN 4
 ¶
-
- 大般涅槃經集解卷第四(純陀品第二卷上)¶
+大般涅槃經集解卷第四(純陀品第二卷上)¶
 ¶
 
 　釋福田義　釋純陀名¶
 
-2純陀品(四-五)
-:PROPERTIES:
-:head: 純陀品第二
-:END:
-¶
+* 純陀品第二¶
 
 案。僧宗曰。經之五別。此下兩品。是第二開¶
 宗。明常住因果也。通分為三段。第一因施以¶

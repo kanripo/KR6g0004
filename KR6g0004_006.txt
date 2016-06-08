@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:39.646287
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0004_T_006-0399a> 
 #+PROPERTY: JUAN 6
 ¶
-
- 大般涅槃經集解卷第六(哀歎品卷上)¶
+大般涅槃經集解卷第六(哀歎品卷上)¶
 ¶
 
 　釋地動¶
@@ -20,11 +19,7 @@
 　釋若離若不離無常想義¶
 　釋五十七煩惱義¶
 
-3哀歎品(六-七)
-:PROPERTIES:
-:head: 哀歎品第三
-:END:
-¶
+* 哀歎品第三¶
 
 案。慧朗述僧宗曰。從前品末放口光催供。訖¶
 珠譬。猶是請門明常。此為下根說也。有六段。¶
@@ -224,7 +219,7 @@
 常。三界外也。昔以三無為為常。今明妙有以¶
 為常也。寶亮曰。此下第二舉因果。總勸問也。
 <pb:KR6g0004_T_006-0401a>¶
-智秀曰。第二廣舉諸法。以勸問也。¶
+智秀曰。第二廣舉諸法。以勸間也。¶
 
 亦當為汝先說甘露然後乃當入於涅槃。
 

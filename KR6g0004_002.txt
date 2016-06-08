@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:39.532266
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0004_T_002-0383b> 
 #+PROPERTY: JUAN 2
 ¶
-
- 大般涅槃經集解卷第二(序品第一卷上)¶
+大般涅槃經集解卷第二(序品第一卷上)¶
 ¶
 
 　釋如是我聞一時　釋拘夷城¶
@@ -24,11 +23,7 @@
 　釋八功德水　釋默然不受¶
 　釋五門觀¶
 
-1序品(二-三)
-:PROPERTIES:
-:head: 序品第一
-:END:
-¶
+* 序品第一¶
 
 案。舊經云盡命品。僧亮曰。諸經所不論者。其¶
 旨有三。何者。一曰常住。二曰一體三寶。三曰眾¶
@@ -335,7 +330,7 @@
 厭苦。不離苦因。為煩惱所惑。不得自在。今無¶
 苦因。所以自在也。¶
 
-所作已辦。
+所作已辨。
 
 案。僧亮曰。苦因既盡。所期已畢¶
 也。僧宗曰。謂得盡智無生智究竟也。此義含¶

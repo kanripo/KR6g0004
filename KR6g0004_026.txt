@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.240652
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0004_T_026-0476a> ¶¶¶
 #+PROPERTY: JUAN 26
 ¶
-
- 大般涅槃經集解卷第二十六¶
+大般涅槃經集解卷第二十六¶
 (現病品第十八)¶
 ¶
 
@@ -19,11 +18,7 @@
 　釋五種人謂須陀洹八萬劫得菩提乃至¶
 辟支佛十千劫得菩提義¶
 
-18現病品(二六)
-:PROPERTIES:
-:head: 現病品第十八
-:END:
-¶
+* 現病品第十八¶
 
 案。僧亮曰。次答云何諸菩薩遠離一切病。病¶
 在前品已明。而未釋無病。是則示現之義未¶

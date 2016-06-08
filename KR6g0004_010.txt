@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:39.782519
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0004_T_010-0421a> 
 #+PROPERTY: JUAN 10
 ¶
-
- 大般涅槃經集解卷第十(金剛身品第五　名字¶
+大般涅槃經集解卷第十(金剛身品第五　名字¶
 功德品第六)¶
 ¶
 
@@ -21,11 +20,7 @@
 　釋受持此經不隨四趣¶
 　釋此經具七善　釋此經八味具足¶
 
-5金剛身品(一○)
-:PROPERTIES:
-:head: 金剛身品第五
-:END:
-¶
+* 金剛身品第五¶
 
 案。道生曰。長壽之與金剛。皆共談丈六。但內¶
 外言之耳。長壽為外應之跡。金剛為內照之¶
@@ -605,11 +600,7 @@
 案。智秀曰。此第二別也。有兩翻。前迦葉。¶
 領旨弘化。後佛讚勸也。¶
 
-6名字功德品(一○)
-:PROPERTIES:
-:head: 名字功德品第六
-:END:
-¶
+* 名字功德品第六¶
 
 案。僧亮曰。此經以常住為體。上說壽命金¶
 剛之身。及其二因。今說經名字。及流通究竟¶

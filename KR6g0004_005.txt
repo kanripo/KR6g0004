@@ -1,27 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:39.618761
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0004_T_005-0394b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 大般涅槃經集解卷第五(純陀品第二卷之第二)¶
+大般涅槃經集解卷第五(純陀品第二卷之第二)¶
 ¶
 
 　文殊與純陀論義¶
 　釋妙本見丈六以金翅鳥為喻¶
 
-:PROPERTIES:
-:head: 純陀品之第二
-:END:
-¶
+* 純陀品之第二¶
 
 佛告純陀如是如是(至)成就具足檀波羅蜜。¶
 
@@ -89,8 +85,7 @@
 因此復致請也。僧宗曰。此下請門之第三也。¶
 佛向述其所歎。止其所請。本迹二理。具如前¶
 釋。今純陀所領。已知妙本不可請也。而猶悕¶
-迹住者。謂丈六之現。事在化物。而為化參¶
-差。深淺不一。是則化功未遂也。又佛之虛心。¶
+迹住者。謂丈六之現。事在化物。而為化參差。深淺不一。是則化功未遂也。又佛之虛心。¶
 如彼飢人。豈令化功未足。而當見捨。所以復¶
 得請也。寶亮曰。純陀今請凡有二義。一則明¶
 己是可教之人。二則自述有所未知。佛應住¶

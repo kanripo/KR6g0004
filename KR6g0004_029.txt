@@ -1,25 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:40.297473
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經集解
 #+PROPERTY: CBETA_ID T37n1763
 #+PROPERTY: ID KR6g0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1763
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0004_T_029-0480c> 
 #+PROPERTY: JUAN 29
 ¶
-
- 大般涅槃經集解卷第二十九¶
+大般涅槃經集解卷第二十九¶
 ¶
 
 　出功德天黑闇女譬　釋死苦¶
 
-:PROPERTIES:
-:head: 聖行品之第三
-:END:
-¶
+* 聖行名之第三¶
 
 迦葉生之根本凡有如是(至)觀於所生已見過¶
 患。
